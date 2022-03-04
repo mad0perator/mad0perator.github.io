@@ -1,5 +1,5 @@
 import 'nextra-theme-blog/style.css'
-import Head from 'next/script'
+import Head from 'next/head'
 
 import '../styles/main.css'
 
