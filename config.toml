@@ -19,11 +19,11 @@ theme = './lynx'
 
   links = [
     { email = "mailto:mad0perator.creationlounge@gmail.com" },
-    { link = "https://mad0perator.vercel.app" },
+#    { link = "https://mad0perator.vercel.app" },
 #    { discord = "" },
     { github = "https://github.com/mad0perator" },
-    { gitlab = "https://gitlab.com/mad0perator" },
-#    { instagram = "https://instagram/mad0perator" },
+#    { gitlab = "https://gitlab.com/mad0perator" },
+    { instagram = "https://instagram.com/mad0perator" },
 #    { mastodon = "https://mastodon.social/@mad0perator" },
 #    { reddit = "https://reddit.com/user/stratmaster921" },
     { telegram = "https://t.me/mad0perator" },
