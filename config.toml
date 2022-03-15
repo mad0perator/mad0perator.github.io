@@ -2,7 +2,7 @@
 baseURL = "https://mad0perator.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-theme = "lynx"
+#theme = "lynx"
 
 title = "mad0perator | link me"
 # copyright = "Copy, _right?_ :thinking_face:"
