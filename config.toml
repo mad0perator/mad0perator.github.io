@@ -1,3 +1,59 @@
-baseURL = 'http://example.org/'
+# 
+
+baseURL = "https://github.com/mad0perator/mad0perator.github.io"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+
+title = "mad0perator[dot]crypto"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "mad0perator"
+  headline = "[.crypto]"
+  image = "img/author.jpg"  # path relative to static directory
+
+  links = [
+    { email = "mailto:mad0perator.9216@cloak.id" },
+    { link = "https://mad0perator.vercel.app/" },
+    # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    # { apple = "https://www.apple.com" },
+    # { codepen = "https://codepen.io/username" },
+    # { dev = "https://dev.to/username" },
+    # { discord = "https://discord.gg/invitecode" },
+    # { dribbble = "https://dribbble.com/username" },
+    # { facebook = "https://facebook.com/username" },
+    # { flickr = "https://www.flickr.com/photos/username/" },
+    # { foursquare = "https://foursquare.com/username" },
+    { github = "https://github.com/mad0perator" },
+    { gitlab = "https://gitlab.com/mad0perator" },
+    # { google = "https://www.google.com/" },
+    # { instagram = "https://instagram.com/username" },
+    # { keybase = "https://keybase.io/username" },
+    # { kickstarter = "https://www.kickstarter.com/profile/username" },
+    # { lastfm = "https://lastfm.com/user/username" },
+    # { linkedin = "https://linkedin.com/in/username" },
+    # { mastodon = "https://mastodon.instance/@username" },
+    # { medium = "https://medium.com/username" },
+    # { microsoft = "https://www.microsoft.com/" },
+    # { patreon = "https://www.patreon.com/username" },
+    # { pinterest = "https://pinterest.com/username" },
+    # { reddit = "https://reddit.com/user/username" },
+    # { slack = "https://workspace.url/team/userid" },
+    # { snapchat = "https://snapchat.com/add/username" },
+    # { soundcloud = "https://soundcloud.com/username" },
+    # { steam = "https://steamcommunity.com/profiles/userid" },
+    { telegram = "https://t.me/mad0perator" },
+    # { tiktok = "https://tiktok.com/@username" },
+    { tumblr = "https://mad0perator.tumblr.com" },
+    # { twitch = "https://twitch.tv/username" },
+    { twitter = "https://twitter.com/null_space" },
+    # { whatsapp = "https://wa.me/phone-number" },
+    # { youtube = "https://youtube.com/username" },
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
