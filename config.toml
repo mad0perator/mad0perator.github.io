@@ -1,9 +1,11 @@
-# 
-
-baseURL = "https://github.com/mad0perator/mad0perator.github.io"
+# config.toml
+# ===========
+# Site configurations
+#
+baseURL = "https://mad0perator.github.io"
 languageCode = 'en-us'
 
-title = "mad0perator[dot]crypto"
+title = "mad0perator | link me"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
@@ -17,6 +19,10 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { email = "mailto:mad0perator.9216@cloak.id" },
     { link = "https://mad0perator.vercel.app/" },
+    { unstoppable = {
+        href = "https://ud.me/mad0perator.crypto",
+	text = "Unstoppable Domains profile"
+	} },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -27,7 +33,7 @@ disableKinds = ["taxonomy", "term"]
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
     { github = "https://github.com/mad0perator" },
-    { gitlab = "https://gitlab.com/mad0perator" },
+    # { gitlab = "https://gitlab.com/" },
     # { google = "https://www.google.com/" },
     # { instagram = "https://instagram.com/username" },
     # { keybase = "https://keybase.io/username" },
@@ -46,7 +52,7 @@ disableKinds = ["taxonomy", "term"]
     # { steam = "https://steamcommunity.com/profiles/userid" },
     { telegram = "https://t.me/mad0perator" },
     # { tiktok = "https://tiktok.com/@username" },
-    { tumblr = "https://mad0perator.tumblr.com" },
+    # { tumblr = ".tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     { twitter = "https://twitter.com/null_space" },
     # { whatsapp = "https://wa.me/phone-number" },
