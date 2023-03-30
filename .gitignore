@@ -1,0 +1,9 @@
+# .gitignore
+# ==========
+#
+# Git ignores the files and folders matching the glob patterns below.
+#
+
+# Environment
+.env
+*.env*
