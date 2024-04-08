@@ -1,3 +1,19 @@
+# .gitignore
+# ``````````
+#   git ignores paths matching these glob patterns
+#
+
+# user-defined
+# ------------
+
+# quarto
+/.quarto/
+/_site/
+
+
+# auto-generated
+# --------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
