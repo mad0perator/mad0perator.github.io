@@ -1,0 +1,7 @@
+---
+title: mad0perator.github.io
+jupyter: python3
+---
+
+front page of mad0perator's github
+
