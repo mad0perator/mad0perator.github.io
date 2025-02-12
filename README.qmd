@@ -1,7 +1,70 @@
 ---
-title: mad0perator.github.io
-jupyter: python3
+title: Profile
+author: "mad0perator"
+description: Front page of mad0perator's GitHub Pages
+format: gfm
 ---
 
-front page of mad0perator's github
+> like Sade's song but not quite as smooth.
 
+
+:bust_in_silhouette: Intro
+--------------------------
+
+:wave: Hey! Welcome to my GitHub Pages.
+
+I'm not big on static introductions but I'll try to be normal for a moment.
+Industrial Automation is my professional specialization and I have an
+eternal passion for learning and problem-solving. I'm always interested
+in collaborative efforts with those aims. Here, I share some of my projects
+and experiments and look for quests and inspiration wherever I can find it.
+
+
+:clipboard: Projects
+---------------------
+
+Here are some of my recent projects:
+
+### :sparkler: [In the Beginning][genesis] ... [there was $\Pi$][nb]
+
+Decode $\pi$ from the first verse of the Bible.
+
+
+Feel free to explore and contribute!
+
+
+:wrench: Tools
+--------------
+
+I'm currently using, learning and exploring the following technologies:
+
+* Linux
+* Python
+* JupyterLab / Quarto
+* Blockchain / Crypto / Web3
+* IPFS
+* LLM / NN / ML / DL
+* Nostr
+
+
+:speech_balloon: Contact
+------------------------
+
+You can reach out to me through the following channels:
+
+:octocat: @mad0perator  
+:email: `my-github-username`.crypto@ud.me  
+:bird: [@null_space][twitter-profile]  
+:purple_heart: npub1f5z2q0eym350807uand7y5ceyyjvj8y25vz5lf8uhp763aaq8wfqklsf2p  
+
+
+---
+
+:memo: **License**
+This project is licensed under the MIT License.
+
+
+<!-- Links -->
+[genesis]: https://github.com/mad0perator/in-the-beginning "GitHub repo"
+[nb]: https://mad0perator.github.io/in-the-beginning/there-was-pi "Article"
+[twitter-profile]: https://x.com/@null_space "X profile"
