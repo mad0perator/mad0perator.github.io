@@ -1,2 +1,53 @@
-# mad0perator.github.io
-front page of mad0perator's github
+# Profile
+mad0perator
+
+> like Sade’s song but not quite as smooth.
+
+## :bust_in_silhouette: Intro
+
+:wave: Hey! Welcome to my GitHub Pages.
+
+I’m not big on static introductions but I’ll try to be normal for a
+moment. Industrial Automation is my professional specialization and I
+have an eternal passion for learning and problem-solving. I’m always
+interested in collaborative efforts with those aims. Here, I share some
+of my projects and experiments and look for quests and inspiration
+wherever I can find it.
+
+## :clipboard: Projects
+
+Here are some of my recent projects:
+
+### :sparkler: [In the Beginning](https://github.com/mad0perator/in-the-beginning "GitHub repo") … [there was $\Pi$](https://mad0perator.github.io/in-the-beginning/there-was-pi "Article")
+
+Decode $\pi$ from the first verse of the Bible.
+
+Feel free to explore and contribute!
+
+## :wrench: Tools
+
+I’m currently using, learning and exploring the following technologies:
+
+- Linux
+- Python
+- JupyterLab / Quarto
+- Blockchain / Crypto / Web3
+- IPFS
+- LLM / NN / ML / DL
+- Nostr
+
+## :speech_balloon: Contact
+
+You can reach out to me through the following channels:
+
+:octocat: @mad0perator  
+:email: `my-github-username`.crypto@ud.me  
+:bird: [@null_space](https://x.com/@null_space "X profile")  
+:purple_heart:
+npub1f5z2q0eym350807uand7y5ceyyjvj8y25vz5lf8uhp763aaq8wfqklsf2p
+
+------------------------------------------------------------------------
+
+:memo: **License** This project is licensed under the MIT License.
+
+<!-- Links -->
