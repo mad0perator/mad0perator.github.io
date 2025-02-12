@@ -1,7 +1,4 @@
-# .gitignore
-# ``````````
-#   git ignores paths matching these glob patterns
-#
+# .gitignore -- git ignores these glob pattern matches.
 
 # user-defined
 # ------------
@@ -9,6 +6,13 @@
 # quarto
 /.quarto/
 /_site/
+
+# mamba / conda environments
+/env/
+/envs/
+
+# jupyterlab
+*.ipynb*
 
 
 # auto-generated
